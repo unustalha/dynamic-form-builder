@@ -1,4 +1,4 @@
-# Dynamic Form Builder
+# Create data entry/contact form in few clicks!
 This will create html form, javascript validation and php code that will get details and send it to you in email.
 
 * Enter form fields
