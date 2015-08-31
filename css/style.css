@@ -1,0 +1,37 @@
+body {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#000;
+	margin:10px;
+	padding:0px;
+}
+h1, h2, h3, h4, h5, h6, p, form {
+	padding:0px;
+	margin:0px;
+}
+h1 {
+	color:#000;
+	font-size:20px;
+}
+h2 {
+	color:#000;
+	font-size:17px;
+}
+input, textarea {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+.BigTxtField {
+	font-size:15px;
+	width:100%;
+	padding:3px;
+	margin-bottom:5px;
+}
+a {
+	cursor:pointer;
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:none;
+	color:#161697;
+}

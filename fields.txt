@@ -1,0 +1,23 @@
+Full Name
+Email
+Phone
+Gender
+Country
+About Yourself
+Interested In
+Your Photo
+Your Resume
+
+
+Male
+Female
+
+Pakistan
+India
+China
+Srilanka
+
+Cricket
+Football
+Hockey
+Snooker
